@@ -6,3 +6,5 @@ The test of GitHub
     <li><a href="#!">two</a></li>
     <li><a href="#!">three</a></li>
 </ul>
+<hr>
+news commit
